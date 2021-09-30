@@ -1,6 +1,6 @@
-# myapp
+# FlutterWordPairGenerator
 
-A new Flutter project.
+Course project to test Flutter
 
 ## Getting Started
 
